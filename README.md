@@ -5,6 +5,7 @@ Tanwirul Muttaqin_F55123083
 Angelina Febriani Madesen_F55123084
 Arya Nanda Putra_F55123087
 Reyhan Dany A.H. Mohammad_F55123095
+Farisal Aryamadhany F55119040
 
 Hasil Kode Program  Mengurutkan Usia Menggunakan Algoritma Selection Sort :
 
